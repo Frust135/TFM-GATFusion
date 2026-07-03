@@ -1,0 +1,22 @@
+{
+  "model_type": "xgboost",
+  "feature_version": "v8",
+  "num_edge_features": 32,
+  "best_val_thr": 0.5292931795120239,
+  "best_val_f1": 0.5535714242091837,
+  "best_val_auprc": 0.4704614802955071,
+  "best_train_f1": 0.9802760685182106,
+  "n_estimators": 2000,
+  "max_depth": 4,
+  "learning_rate": 0.03,
+  "subsample": 0.8,
+  "colsample_bytree": 0.8,
+  "min_child_weight": 3.0,
+  "reg_lambda": 1.0,
+  "scale_pos_weight": 149.7352378439005,
+  "num_graphs": 101,
+  "num_train_graphs": 82,
+  "num_val_graphs": 19,
+  "has_mitelman": true,
+  "manifest": "/home/martin.saavedra/AI-Fusion/training_plan.tsv"
+}

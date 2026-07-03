@@ -1,0 +1,5 @@
+donor_gene	acceptor_gene	score	split_reads	chr_donor	brkpt_donor	strand_donor	donor_region	chr_acceptor	brkpt_acceptor	strand_acceptor	acceptor_region	pct_canonical	fusion_type
+HTN3	MSANTD3	0.9841	131	chr4	70028516	+	exon	chr9	100441906	+	exon	0.5	inter-chromosomal
+HTN3	MSANTD3	0.9568	48	chr4	70030192	-	intron	chr9	100429350	-	intron	0.5	inter-chromosomal
+TEX10	SEC61B	0.2933	59	chr9	100349372	+	exon	chr9	99222643	-	exon	1.0	intra-chromosomal
+SEC61B	TEX10	0.2851	55	chr9	99222643	+	exon	chr9	100349372	-	exon	1.0	intra-chromosomal

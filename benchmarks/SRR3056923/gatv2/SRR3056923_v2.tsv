@@ -1,0 +1,7 @@
+donor_gene	acceptor_gene	score	split_reads	chr_donor	brkpt_donor	strand_donor	donor_region	chr_acceptor	brkpt_acceptor	strand_acceptor	acceptor_region	pct_canonical	fusion_type
+ZNF217	PRB3	0.9908	229	chr20	53583168	+	exon	chr12	11268633	+	exon	0.5	inter-chromosomal
+HTN3	ENSG00000294904	0.9735	542	chr4	70029499	+	intron	chr9	99820761	+	exon	0.0	inter-chromosomal
+HTN3	ENSG00000294904	0.971	532	chr4	70029500	-	intron	chr9	99820762	-	exon	0.0	inter-chromosomal
+PRB3	ZNF217	0.9417	20	chr12	11268501	-	intron	chr20	53588093	-	intron	0.5	inter-chromosomal
+CLTC	PTRH2	0.1729	48	chr17	59694264	+	exon	chr17	59694230	-	exon	0.0	intra-chromosomal
+ZNF217	PRB3	0.1604	13	chr20	53593758	-	exon	chr12	11268632	-	intron	0.333	inter-chromosomal

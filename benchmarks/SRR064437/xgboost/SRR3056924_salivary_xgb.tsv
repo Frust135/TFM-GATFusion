@@ -1,0 +1,6 @@
+donor_gene	acceptor_gene	score	split_reads	chr_donor	brkpt_donor	strand_donor	donor_region	chr_acceptor	brkpt_acceptor	strand_acceptor	acceptor_region	fusion_type
+MT-ND4	MTND4P12	0.5214	2	chrM	11273	-	exon	chr5	134263341	-	exon	inter-chromosomal
+MT-ND4	PCBD2	0.5214	2	chrM	11273	-	exon	chr5	134263341	-	exon	inter-chromosomal
+MT-ND4	PCBD2	0.5214	6	chrM	11891	-	exon	chr5	134262537	+	exon	inter-chromosomal
+MT-ND4	MTND4P12	0.5214	6	chrM	11891	-	exon	chr5	134262537	+	exon	inter-chromosomal
+ANXA2	ZNRF1	0.4988	2	chr15	60643391	-	exon	chr16	75134288	-	intron	inter-chromosomal

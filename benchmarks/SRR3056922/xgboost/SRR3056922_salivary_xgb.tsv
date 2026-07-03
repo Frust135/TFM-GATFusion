@@ -1,0 +1,6 @@
+donor_gene	acceptor_gene	score	split_reads	chr_donor	brkpt_donor	strand_donor	donor_region	chr_acceptor	brkpt_acceptor	strand_acceptor	acceptor_region	fusion_type
+YWHAE	PITPNA	0.525	2	chr17	1350041	+	intron	chr17	1524779	-	intron	intra-chromosomal
+AFMID	PGS1	0.525	3	chr17	78201191	-	intron	chr17	78410009	-	intron	intra-chromosomal
+SAMD5	SASH1	0.525	4	chr6	147509388	+	intron	chr6	148390133	+	intron	intra-chromosomal
+RASAL2	RPS14	0.525	2	chr1	178411713	-	exon	chr5	150446906	+	exon	inter-chromosomal
+MNAT1	HIF1A	0.525	2	chr14	60889328	+	intron	chr14	61708590	-	exon	intra-chromosomal

@@ -1,0 +1,6 @@
+donor_gene	acceptor_gene	score	split_reads	chr_donor	brkpt_donor	strand_donor	donor_region	chr_acceptor	brkpt_acceptor	strand_acceptor	acceptor_region	pct_canonical	fusion_type
+DSC2	MYO5B	0.0076	31	chr18	28679180	+	intron	chr18	47485542	-	intron	0.0	intra-chromosomal
+KL	CCDC171	0.0064	76	chr13	33591262	-	exon	chr9	16008861	-	intron	0.0	inter-chromosomal
+TECTA	MAN2A1	0.0021	25	chr11	121023903	+	intron	chr5	109088223	+	intron	0.0	inter-chromosomal
+NUTF2	TBL1X	0.0008	16	chr16	67897369	-	exon	chrX	9661932	-	intron	0.0	inter-chromosomal
+CPLANE1	B3GAT2	0.0005	13	chr5	37110206	+	intron	chr6	71607355	+	intron	0.0	inter-chromosomal

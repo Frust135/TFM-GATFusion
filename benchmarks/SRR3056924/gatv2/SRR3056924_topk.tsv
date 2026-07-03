@@ -1,0 +1,6 @@
+donor_gene	acceptor_gene	score	split_reads	chr_donor	brkpt_donor	strand_donor	donor_region	chr_acceptor	brkpt_acceptor	strand_acceptor	acceptor_region	pct_canonical	fusion_type
+SOX2-OT	YWHAG	0.0401	13	chr3	181280132	+	intron	chr7	76328829	-	exon	1.0	inter-chromosomal
+FASN	ENSG00000282885	0.0219	70	chr17	82093933	+	intron	chr14	49862792	-	exon	1.0	inter-chromosomal
+VPS35	PTPRD	0.0204	368	chr16	46673186	-	intron	chr9	9442147	-	exon	0.0	inter-chromosomal
+ENSG00000282885	FASN	0.0181	57	chr14	49862792	+	exon	chr17	82093933	-	intron	1.0	inter-chromosomal
+PTPRD	STAG2	0.0149	170	chr9	9442114	+	exon	chrX	123969758	-	intron	0.0	inter-chromosomal

@@ -1,0 +1,6 @@
+donor_gene	acceptor_gene	score	split_reads	chr_donor	brkpt_donor	strand_donor	donor_region	chr_acceptor	brkpt_acceptor	strand_acceptor	acceptor_region	fusion_type
+PRKN	ARID1B	0.525	2	chr6	162124741	+	intron	chr6	156995751	+	intron	intra-chromosomal
+PIK3C2A	PLEKHA7	0.525	5	chr11	17143922	+	intron	chr11	16886479	+	intron	intra-chromosomal
+MAP3K13	RPL4	0.525	2	chr3	185417553	-	exon	chr15	66499562	+	exon	inter-chromosomal
+APPBP2	BCAS3	0.525	3	chr17	60515197	-	intron	chr17	60688646	-	intron	intra-chromosomal
+MAP3K13	RPL4	0.525	2	chr3	185417838	+	exon	chr15	66500314	-	exon	inter-chromosomal
