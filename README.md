@@ -1,5 +1,7 @@
 # GATFuse
 
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 Detección de fusiones génicas a partir de RNA-seq mediante una red de atención sobre grafos (GATv2). Incluye también un baseline XGBoost sobre las mismas features de arista. Este repositorio contiene el código para reproducir el pipeline (grafo → entrenamiento → predicción).
 
 ## Requisitos
@@ -156,3 +158,7 @@ Descarga y agrega los pares de genes recurrentes de la Mitelman Database en un T
 ## Caché de grafos
 
 Construir un grafo desde BAM/Chimeric/ReadsPerGene es el paso más costoso del pipeline. Todos los scripts de entrenamiento y predicción cachean el grafo ya construido en `cache/graphs/` (clave = hash de las rutas/tamaños de los ficheros de entrada + parámetros de construcción). Usar `--no_cache` o `--graph_cache_dir ""` para desactivarlo.
+
+## Licencia
+
+Este proyecto está publicado bajo [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) (Attribution-NonCommercial-ShareAlike). En resumen: se permite compartir y adaptar el código dando crédito, siempre que no sea con fines comerciales y que las obras derivadas se publiquen bajo la misma licencia. Texto completo en [`LICENSE`](LICENSE).
